@@ -4,7 +4,7 @@
   * [KiTTy - SSH client.](http://www.9bis.net/kitty/)
   * [MobaXterm - More robust ssh cliend with native X11 support.](https://mobaxterm.mobatek.net/)
   * [VMware Player Free - Free Hypervisor](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
-  * [Visual Studio Code - Code editing and debuggin](https://code.visualstudio.com/)
+  * [Visual Studio Code - Code editing and debugging](https://code.visualstudio.com/)
   
 ## Learning Resources:
   * [hackthebox.eu - Free online pentesting labs](https://www.hackthebox.eu)
