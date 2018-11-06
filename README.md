@@ -4,6 +4,7 @@
   * [KiTTy - SSH client](http://www.9bis.net/kitty/)
   * [MobaXterm - More robust SSH client with native X11 support](https://mobaxterm.mobatek.net/)
   * [VMware Player Free - Free Hypervisor](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+  * [Kali Linux VM images](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)
   * [Visual Studio Code - Code editing and debugging](https://code.visualstudio.com/)
   
 ## Learning Resources:
