@@ -1,8 +1,8 @@
 # Offensive Security and PenTesting Learning Resources
 
 ## Tools:
-  * [KiTTy - SSH client.](http://www.9bis.net/kitty/)
-  * [MobaXterm - More robust ssh cliend with native X11 support.](https://mobaxterm.mobatek.net/)
+  * [KiTTy - SSH client](http://www.9bis.net/kitty/)
+  * [MobaXterm - More robust SSH client with native X11 support](https://mobaxterm.mobatek.net/)
   * [VMware Player Free - Free Hypervisor](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
   * [Visual Studio Code - Code editing and debugging](https://code.visualstudio.com/)
   
@@ -18,9 +18,9 @@
   * [OSCP Metasploit guide](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/)
   
 ## Cheat Sheets:
-  * https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
-  * https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
-  * https://netsec.ws/?p=331
+  * [Reverse Shell Cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+  * [Metarpeter Basic Commands](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
+  * [Creating Metasploit Payloads](https://netsec.ws/?p=331)
   
 ## Free Online Courses:
   * [Cybrary - Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
