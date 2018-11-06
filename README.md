@@ -14,8 +14,8 @@
   * [veteransec.com - CyberSec blog and hackthebox writeups](https://veteransec.com/)
   
 ## Guides:
-  * https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/
-  * https://sushant747.gitbooks.io/total-oscp-guide/content/
+  * [Total OSCP Guide <-- This is a good start](https://sushant747.gitbooks.io/total-oscp-guide/content/)
+  * [OSCP Metasploit guide](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/)
   
 ## Cheat Sheets:
   * https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
