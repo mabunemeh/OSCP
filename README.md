@@ -15,7 +15,7 @@
   * [veteransec.com - CyberSec blog and hackthebox writeups](https://veteransec.com/)
   
 ## Guides:
-  * [Total OSCP Guide <-- This is a good start](https://sushant747.gitbooks.io/total-oscp-guide/content/)
+  * [Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/) <-- This is a good start
   * [OSCP Metasploit guide](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/)
   * [Payloads All The Things - Advanced list of resources](https://github.com/swisskyrepo/PayloadsAllTheThings)
   
