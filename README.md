@@ -21,6 +21,7 @@
   
 ## Cheat Sheets:
   * [Nmap Cheatsheet](https://highon.coffee/blog/nmap-cheat-sheet/)
+  * [Pentestmonkey - Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
   * [Reverse Shell Cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
   * [Metarpeter Basic Commands](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
   * [Creating Metasploit Payloads](https://netsec.ws/?p=331)
